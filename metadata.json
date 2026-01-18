@@ -1,0 +1,5 @@
+{
+  "name": "CustomerMind Lifecycle Manager",
+  "description": "An agentic AI system that autonomously manages customer engagement, predicts churn, identifies upsell opportunities, and adapts strategies based on behavioral data.",
+  "requestFramePermissions": []
+}
